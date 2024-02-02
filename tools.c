@@ -2,7 +2,8 @@
 
 int main(){
 	printf("I am a tool and I am soft\n");
-	return 0;
+	printf("GET EDITED SON");
+        return 0;
 }
 
 
